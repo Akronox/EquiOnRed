@@ -1,4 +1,4 @@
-# Herramienta echa en bash para identificar los equipos activos en tu red
+# Herramienta echa en bash para identificar equipos activos conectados en tu red
 *Sustituir las 2 ip de dentro del comando por tu ip del rooter sin poner el ultimo o ultimos numeros acabandolo con un .  (ej-192.168.1.)(en mi caso es el 16 le dejo sin poner)
 *Uso= Darle los permisos: chmod +x EquiOnRed.sh
 *Ejecutar con tu ip del rooter: ./EquiOnRed.sh 192.168.1.16
